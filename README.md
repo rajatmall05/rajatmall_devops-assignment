@@ -42,8 +42,6 @@
 <img width="1440" alt="4" src="https://github.com/rajatmall05/rajatmall_devops-assignment/assets/119091034/4f1d8688-d15f-4cdc-8912-714c0b0ba2c9">
 
 
-
-
 ## Task 2:
 **Step 1:**
 + Writing Docker Compose file(save as `docker-compose.yml`)
@@ -137,6 +135,10 @@
 
 + After execution of above command hit [localhost:8080](http://localhost:8080)
 + This will open phpMyAdmin page
+
+<img width="1440" alt="5" src="https://github.com/rajatmall05/rajatmall_devops-assignment/assets/119091034/967f5e58-0e78-45b8-8c62-21fcea34dec3">
+<img width="1440" alt="6" src="https://github.com/rajatmall05/rajatmall_devops-assignment/assets/119091034/dc07b34a-ceee-403f-9075-ba43e3831da4">
+
 
 ## Task 3:
 **Step 1:**

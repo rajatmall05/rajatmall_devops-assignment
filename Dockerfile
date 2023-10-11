@@ -6,7 +6,7 @@ LABEL maintainer="rajat@55tech.com"
 LABEL description="Docker image for WordPress"
 
 # Expose port 80
-EXPOSE 8001:80
+EXPOSE 8000:80
 
 # Start the WordPress application
 CMD ["apache2-foreground"]

@@ -140,6 +140,7 @@
 <img width="1440" alt="6" src="https://github.com/rajatmall05/rajatmall_devops-assignment/assets/119091034/dc07b34a-ceee-403f-9075-ba43e3831da4">
 
 
+
 ## Task 3:
 **Step 1:**
 + Access the MySQL Container:
@@ -208,6 +209,11 @@
 + Database Maintenance: Always make sure to perform database maintenance for eg, indexing, defragmentation which helps the databse runs smoothly.
 + Testing: Make sure to test in development environment before applying major optimizations.
 + Backups: Make sure to regularly backup your database.
+
+**Note:**
+## We can also check the running images, their containers through GUI:
+
+<img width="1440" alt="Screenshot 2023-10-12 at 4 41 07 AM" src="https://github.com/rajatmall05/rajatmall_devops-assignment/assets/119091034/1318c2b0-f60b-40e3-b9da-d40ca9859bef">
 
 
 

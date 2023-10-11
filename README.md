@@ -36,6 +36,7 @@
 + After execution of above commands hit [localhost:8000](http://localhost:8000)
 + This will open WordPress page.
 
+<img width="1436" alt="1" src="https://github.com/rajatmall05/rajatmall_devops-assignment/assets/119091034/79d51165-8a93-4080-a284-7f787cdee203">
 
 
 

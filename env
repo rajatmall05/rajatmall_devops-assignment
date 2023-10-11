@@ -1,0 +1,6 @@
+# Environment variables(referred from Docker documentation) which allows to run MySQL container from Docker.
+MYSQL_ROOT_PASSWORD=root-pwd
+MYSQL_USER=wordpress_user
+MYSQL_PASSWORD=password
+MYSQL_DATABASE=wordpress_db
+WORDPRESS_DB_PASSWORD=password

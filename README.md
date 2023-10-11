@@ -37,6 +37,9 @@
 + This will open WordPress page.
 
 <img width="1436" alt="1" src="https://github.com/rajatmall05/rajatmall_devops-assignment/assets/119091034/79d51165-8a93-4080-a284-7f787cdee203">
+<img width="1440" alt="2" src="https://github.com/rajatmall05/rajatmall_devops-assignment/assets/119091034/e67422ec-6419-476d-8b32-fd419cb445f5">
+<img width="1440" alt="3" src="https://github.com/rajatmall05/rajatmall_devops-assignment/assets/119091034/9d57cef5-f302-48db-9a8e-2615cc5aa236">
+<img width="1440" alt="4" src="https://github.com/rajatmall05/rajatmall_devops-assignment/assets/119091034/4f1d8688-d15f-4cdc-8912-714c0b0ba2c9">
 
 
 

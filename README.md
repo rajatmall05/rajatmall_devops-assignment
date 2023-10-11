@@ -211,7 +211,7 @@
 + Backups: Make sure to regularly backup your database.
 
 **Note:**
-## We can also check the running images, their containers through GUI:
+## We can check running Docker images through CLI but can also check through GUI:
 
 <img width="1440" alt="Screenshot 2023-10-12 at 4 41 07 AM" src="https://github.com/rajatmall05/rajatmall_devops-assignment/assets/119091034/1318c2b0-f60b-40e3-b9da-d40ca9859bef">
 
